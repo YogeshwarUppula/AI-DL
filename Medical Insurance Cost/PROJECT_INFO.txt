@@ -1,0 +1,4 @@
+Project: Medical Insurance Cost Prediction Using Deep Learning Techniques
+Main notebook: DL_PROJECT.ipynb
+Dataset: insurance.csv (included in this project folder)
+Best model in recorded notebook run: ANN with SGD
